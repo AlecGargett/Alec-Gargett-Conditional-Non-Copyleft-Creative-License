@@ -1,5 +1,7 @@
 # Alec Gargett Conditional Non-Copyleft Creative License
- 
+
+Summary: permission to use with fair attribution where convenient, and fair payment in cases of large increases in profits resulting from that use.
+
 This license conditionally grants rights for anyone to view, study, use (publicly or privately), link, share, copy, publish, distribute, profit from, sublicense or modify this work including any and all source code and any modifications on the conditions that:
 
 1) Alec Gargett is credited clearly and at least as clearly as fair and practical for the work and for the portion of the derivitive work that is his.
@@ -14,6 +16,6 @@ iii) If dead or not able to communicate, Alec Gargett's heirs are paid at least 
 
 iv) The percentage paid will be at least the percentage requested by Alec Gargett between 0% and 50%, or if no request is made, at least the percentage of value added by Alec Gargett's contribution and at least 1%.
 
-3) Any sublicensing must guarantee that the above conditions 1) & 2) are required to be met for all derivitieves, but does not necessarily have to guarantee open source code or free software rights.
+3) Any sublicensing must guarantee that the above conditions 1) and 2) are required to be met for all derivitieves, but does not necessarily have to guarantee open source code or free software rights.
 
 The Alec Gargett Conditional Non-Copyleft Creative License is itself licensed for use and modification under the separate Alec Gargett Conditional Copyleft Creative License.
