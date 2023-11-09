@@ -1,5 +1,7 @@
 # Alec Gargett Conditional Non-Copyleft Creative License
- 
+
+Summary: permission to use with fair attribution where convenient, and fair payment in cases of large increases in profits resulting from that use.
+
 This license conditionally grants rights for anyone to view, study, use (publicly or privately), link, share, copy, publish, distribute, profit from, sublicense or modify this work including any and all source code and any modifications on the conditions that:
 
 1) The artist or author (myself) is credited clearly and at least as clearly as fair and practical for the work and for the portion of the derivitive work that is his.
