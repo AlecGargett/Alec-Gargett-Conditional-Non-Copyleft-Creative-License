@@ -12,7 +12,7 @@ ii) If alive and able to communicate, the artist or author (myself) is promptly 
 
 iii) If dead or not able to communicate, the artist or author (myself)'s heirs are paid at least this percentage;
 
-iv) The percentage paid will be at least any fair percentage requested by the artist or author (myself) between 0% and 50% of the additional profit resulting from the contribution of the artist or author (myself), or if no fair request is made, at least the half of the percentage of value added by the contribution of the artist or author (myself);
+iv) The percentage paid will be at least any fair percentage requested by the artist or author (myself) between 0% and 50% of the additional profit resulting from the contribution of the artist or author (myself), or if no fair request is made, at least the half of the percentage of value added by the contribution of the artist or author (myself) (Note: where additional profits resulting from the contribution of the artist or author (myself) are negligible, the fair percentage to be paid will be 0);
 
 3) Any sublicensing must guarantee that the above conditions 1) & 2) are required to be met for all derivitieves, but does not necessarily have to guarantee open source code or free software rights.
 
