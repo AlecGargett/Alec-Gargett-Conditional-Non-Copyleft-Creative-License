@@ -18,4 +18,6 @@ iv) The percentage paid will be at least any fair percentage requested by the ar
 
 3) Any sublicensing must guarantee that the above conditions 1) & 2) are required to be met for all derivitieves, but does not necessarily have to guarantee open source code or free software rights.
 
+In exchange, I, the license holder, commit not be a copyright troll (or a copyleft troll) and not to sue unless one is clearly making a large profit from my work or undermining my own income and clearly not paying me a fair amount.
+
 The Alec Gargett Conditional Non-Copyleft Creative License is itself licensed for use and modification under the separate Alec Gargett Conditional Copyleft Creative License.
